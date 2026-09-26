@@ -1,0 +1,12 @@
+model,mismatch_type,n,total,percent
+Fixed model,false_comfort,90,613,0.1468189233278956
+Fixed model,false_discomfort,5,613,0.008156606851549755
+Fixed model,true_comfort,518,613,0.8450244698205547
+Mixed model: known participants,false_comfort,59,613,0.09624796084828711
+Mixed model: known participants,false_discomfort,10,613,0.01631321370309951
+Mixed model: known participants,true_comfort,513,613,0.8368678629690048
+Mixed model: known participants,true_discomfort,31,613,0.05057096247960848
+Mixed model: population-level,false_comfort,89,613,0.14518760195758565
+Mixed model: population-level,false_discomfort,3,613,0.004893964110929853
+Mixed model: population-level,true_comfort,520,613,0.8482871125611745
+Mixed model: population-level,true_discomfort,1,613,0.0016313213703099511

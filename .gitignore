@@ -1,0 +1,12 @@
+# The analytic input and generated files can contain participant-level records.
+audit_v2_primary_model_table.csv
+outputs/
+mixed_model_outputs/
+portability_outputs/
+sensitivity_outputs/
+temporal_outputs/
+within_between_outputs/
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store

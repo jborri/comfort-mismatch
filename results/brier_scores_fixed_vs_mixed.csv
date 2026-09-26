@@ -1,0 +1,4 @@
+model,brier_score
+Fixed model,0.11776128653926284
+Mixed model: known participants,0.07667335950402682
+Mixed model: population-level,0.1260576736132672

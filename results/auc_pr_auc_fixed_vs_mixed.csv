@@ -1,0 +1,7 @@
+model,metric_type,.estimate
+Fixed model,ROC-AUC,0.7467601444656901
+Mixed model: known participants,ROC-AUC,0.8984703632887171
+Mixed model: population-level,ROC-AUC,0.7167197790524757
+Fixed model,PR-AUC,0.2657760721465026
+Mixed model: known participants,PR-AUC,0.6839153042137326
+Mixed model: population-level,PR-AUC,0.23848203608791327
